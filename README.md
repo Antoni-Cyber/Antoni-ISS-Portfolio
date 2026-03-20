@@ -10,6 +10,7 @@ This repo servers as my "Digital Garden" and technical portfolio.
 | [01-Drafts](./01-Drafts-n-Questions/) | Brainstorming and asking questions.
 | [02-Main-Notes](./02-Main-Notes/) | "Polished" notes here
 | [03-Mind-Maps](./03-MindMaps-n-Skeletons/) | Where maps and map skeletons are stored
+| [04-Tool-Notes](./04-Tool-Notes/) | Cheat sheets to help me learn the tools im using currently.
 
 ## Current Tools & Workflow
 To simulate a professional documentation environment, I am utilizing:
