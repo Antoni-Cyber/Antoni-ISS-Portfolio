@@ -1,6 +1,6 @@
 The following notes are all based on the slides provided here: https://csrc.nist.gov/Projects/risk-management/rmf-courses/drmfic80037r2
 
-**Module 1**: Relevant legislation and policies
+**Module 1**: IT Security Legislation and Policy
 - Congress institutes sec practices > OMB oversees and coordinates.
 - FISMA (Federal information security modernization act) 
 - FISMA 2014 ammended 2002 and increased the following:
